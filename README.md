@@ -1,2 +1,2 @@
 # subhashree
-This is the nor project.
+This is the normal project.
